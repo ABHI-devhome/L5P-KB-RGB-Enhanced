@@ -120,5 +120,5 @@ This project is not just an update — it is a **full system evolution**:
 
 ## 🎥 Preview
 
-### NeuralRGB
+### RGB
 ![RGB](./Rgb.gif)
