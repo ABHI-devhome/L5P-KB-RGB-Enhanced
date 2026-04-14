@@ -115,3 +115,10 @@ This project is not just an update — it is a **full system evolution**:
 
 > From a basic RGB controller
 > → To a customizable, algorithm-driven lighting engine
+
+---
+
+## 🎥 Preview
+
+### NeuralRGB
+![RGB](./Rgb.gif)
